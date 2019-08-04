@@ -1,0 +1,58 @@
+/**
+ * @generator  CSSMin 3.0.0.$Rev: 10 $
+ * @author     groupe du projet
+ * @date       Thu, 25 March 2015 12:11:11 +0200
+ */
+html{
+background-color:#fff
+}
+blockquote{
+background-color:#ebf5fe
+}
+
+.userbox-notify{
+border:2px #fff solid
+}
+.footerbanner{
+background-color:#ebf5fe
+}
+.containerheader{
+
+border-bottom:2px #505962 solid;
+	background:#ebf5fe url(images/bg-headerright.8.png) 100% 100% no-repeat;
+}
+#layout-standard .containerheader-in{
+margin-top:10px;margin-bottom:10px
+}
+.containerheader.\:tabnav{
+background-image:url(images/bg-headerright-soft.8.png)
+border-bottom:0
+}
+#containerheader-searchresult{
+background-image:none;border-bottom:0
+}
+#containerheader-searchresult .containerheader-in{
+padding-top:0;padding-bottom:0
+}
+#layout-homepage .containerheader,#layout-simple{
+background:#ebf5fe url(images/bg-bodycenter.8.png) 50% 100% no-repeat;
+}
+#layout-simple .containerheader{
+background:none;border-bottom:0
+}.asidebox{
+	background-color:#ebf5fe
+}
+.tabnav-itemlink{
+background-color:#dbe8f3;
+color:#6d7882
+}
+.tabnav-itemlink:before,.tabnav-itemlink:after{
+border-color:#dbe8f3
+}
+.tabnav-itemlink:hover,.tabnav-itemlink:focus,.tabnav-itemlink:active,.tabnav-itemlink.\:active{
+background-color:#fff
+}
+.tabnav-itemlink:hover:before,.tabnav-itemlink:focus:before,.tabnav-itemlink:active:before,.tabnav-itemlink.\:active:before,.tabnav-itemlink:hover:after,.tabnav-itemlink:focus:after,.tabnav-itemlink:active:after,.tabnav-itemlink.\:active:after{border-color:#fff}.list1-itembox{border:2px #ebf5fe solid;background-color:#ebf5fe}.list1-itembox + .userbox:before{border-top-color:#ebf5fe}.list1-actionlist{background-color:#ebf5fe}.list1-actionlist:before{background-color:#ebf5fe}.list1-itemwaypart:after{border-color:#ebf5fe}x:-moz-any-link,.list1-itemwaypart:after{border-color:#6d7882;background-color:#ebf5fe !important}html.ie_lt9 .list1-itemwaypart:after{border-color:#6d7882;background-color:#ebf5fe !important}.list2-itembox{border:2px #ebf5fe solid;background-color:#ebf5fe}a.list2-itembox:hover,a.list2-itembox:active,a.list2-itembox:focus{border-color:#c5d3e0}.list5-itembox{border:2px #ebf5fe solid;background-color:#ebf5fe}.list5-itembox + .userbox:before{border-top-color:#ebf5fe}html.has-js .formrow-checkboxlist-recurrence input[type="checkbox"]:checked + label:after,html.has-js .formrow-checkboxlist-recurrence input[type="radio"]:checked + label:after,html.has-js .formrow-checkboxlist-recurrence input[type="checkbox"].\:checked + label:after,html.has-js .formrow-checkboxlist-recurrence input[type="radio"].\:checked + label:after{border-bottom-color:#ebf5fe}.formbox-recurrence{background-color:#ebf5fe}.formbox-recurrence .msg:before{background-color:#ebf5fe}.journeyinfobox{background-color:#ebf5fe}.journeyinfobox .userbox-notify{border-color:#ebf5fe}.ui-datepicker .ui-datepicker-week-end{background-color:#ebf5fe}.overlay-head{background-color:#ebf5fe}.overlay-foot{background-color:#ebf5fe}#top{box-shadow:0 0 5px 0 rgba(137,165,182,.5);-webkit-box-shadow:0 0 5px 0 rgba(137,165,182,.5)}html.ie_lt9 #top{border-bottom:1px #c4d2da solid}.footerbox-itembox{background-color:#ebf5fe}.footerbox-itemiframe-fbout1{border:2px #ebf5fe solid}#layout-simple{background-color:#ebf5fe}#layout-simple .msg:before{background-color:#ebf5fe}#layout-simple .msg-info{background-color:#fff}@media screen and (max-width: 900px){.tabnav-itemlink{background-color:transparent}.tabnav-itemlink:hover,.tabnav-itemlink:focus,.tabnav-itemlink:active{background-color:#ebf5fe}.tabnav-item .tabnav-itemlink.\:active{background-color:#505962;color:#fff}.containerheader.\:tabnav{margin-bottom:41px;padding-bottom:29px}}@media screen and (max-width: 750px){#useraside,#accountaside{background-color:#ebf5fe}}@media screen and (max-width: 600px){#layout-standard .containerheader-in{margin-top:0}.containerheader{background-size:655px 119px;border-bottom-width:1px}#layout-homepage .containerheader,#layout-simple{background-size:1100px 399px;border-bottom-width:1px}}
+.containerheader{
+	color: #ebf5fe !important;
+}
